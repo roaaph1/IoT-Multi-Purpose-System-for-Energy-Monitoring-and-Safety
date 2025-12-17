@@ -12,7 +12,7 @@ such as gas and smoke detection using ESP32 and IoT technology.
 
 ## Poster## Project Poster
 ## Project Poster
-📄 [View Project Poster (PDF)](poster/IoT%20Multi-Purpose%20System%20for%20Energy%20and%20Safety.pdf)
+📄 IoT Multi-Purpose System for Energy and Safety.pdf)
 
 
 
