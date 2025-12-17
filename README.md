@@ -10,6 +10,9 @@ such as gas and smoke detection using ESP32 and IoT technology.
 - Remote control of devices
 - Automatic safety actions
 
+## Poster
+
+
 ## Hardware Used
 - ESP32
 - MQ Gas Sensor
