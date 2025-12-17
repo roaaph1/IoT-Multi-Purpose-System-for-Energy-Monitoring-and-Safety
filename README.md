@@ -10,8 +10,6 @@ such as gas and smoke detection using ESP32 and IoT technology.
 - Remote control of devices
 - Automatic safety actions
 
-## Poster## Project Poster
-## Project Poster## Project Poster
 ## Project Poster
 📄 [View Project Poster (PDF)](https://github.com/roaaph1/IoT-Multi-Purpose-System-for-Energy-Monitoring-and-Safety/blob/main/IoT%20Multi-Purpose%20System%20for%20Energy%20and%20Safety.pdf)
 
