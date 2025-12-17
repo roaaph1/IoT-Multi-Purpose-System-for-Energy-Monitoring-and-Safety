@@ -11,6 +11,7 @@ such as gas and smoke detection using ESP32 and IoT technology.
 - Automatic safety actions
 
 ## Poster
+IoT Multi-Purpose System for Energy and Safety.pdf
 
 
 ## Hardware Used
