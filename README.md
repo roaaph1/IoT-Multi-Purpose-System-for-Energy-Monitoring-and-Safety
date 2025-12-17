@@ -18,7 +18,7 @@ such as gas and smoke detection using ESP32 and IoT technology.
 - Current Sensor
 
 ## Demo Video
-🔗 https://your-video-link-here
+🔗 [https://your-video-link-here](https://drive.google.com/file/d/1mmBpkLxpRhiGJcz01V7TLPWD0tyOipG-/view?usp=drive_link)
 
 ## Authors
 - Roaa A. Alghamdi
